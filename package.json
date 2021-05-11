@@ -16,7 +16,7 @@
   "dependencies": {
     "@casl/ability": "file://../casl/packages/casl-ability",
     "knex": "^0.20.13",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "sqlite3": "^4.1.1"
   },
   "devDependencies": {
